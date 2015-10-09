@@ -1,0 +1,10 @@
+c:\users\sani\documents\visual studio 2012\Projects\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+c:\users\sani\documents\visual studio 2012\Projects\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+c:\users\sani\documents\visual studio 2012\Projects\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+c:\users\sani\documents\visual studio 2012\Projects\kalkulator\kalkulator\bin\Debug\kalkulator.xml
+c:\users\sani\documents\visual studio 2012\Projects\kalkulator\kalkulator\obj\Debug\kalkulator.Form1.resources
+c:\users\sani\documents\visual studio 2012\Projects\kalkulator\kalkulator\obj\Debug\kalkulator.Resources.resources
+c:\users\sani\documents\visual studio 2012\Projects\kalkulator\kalkulator\obj\Debug\kalkulator.vbproj.GenerateResource.Cache
+c:\users\sani\documents\visual studio 2012\Projects\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+c:\users\sani\documents\visual studio 2012\Projects\kalkulator\kalkulator\obj\Debug\kalkulator.xml
+c:\users\sani\documents\visual studio 2012\Projects\kalkulator\kalkulator\obj\Debug\kalkulator.pdb
